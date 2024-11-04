@@ -1,6 +1,6 @@
 # Azure DevOps Work Item Management
 
-This project is a Python application that interacts with Azure DevOps to retrieve recent work items, update their titles, and create child work items for Product Backlog Items (PBIs). It utilizes the Azure DevOps REST API for querying and modifying work items by Updating titles with the current date to the titeles of existing work items.
+This project is a Python application that interacts with Azure DevOps to retrieve recent work items, update their titles, and create child work items for Product Backlog Items (PBIs). It utilizes the Azure DevOps REST API for querying and modifying work items by updating titles with the current date to the titeles of existing work items.
 
 ## Prerequisites
 
